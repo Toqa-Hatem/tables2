@@ -1,0 +1,21 @@
+.container1{
+    font-size: 1.2vw;
+    max-width: 90%;
+}
+.container{
+    width: auto;
+    max-width:  85%;
+    font-size: 1.3vw;
+}
+th , td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 150px; 
+}
+.container2{
+    font-size: 1.2vw;
+    /* margin-left: 15%; */
+    width: auto;
+    
+}
